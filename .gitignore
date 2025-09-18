@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Stockfish binary
+bin/stockfish.exe
+
+# Tkinter window config
+*.tcl
+
+# Environment
+.env
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# Test output
+htmlcov/
+coverage.xml
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Installer
+*.whl
+*.msi
+*.exe
+*.zip
+*.tar.gz
