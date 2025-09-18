@@ -16,7 +16,7 @@ __pycache__/
 Thumbs.db
 
 # Stockfish binary
-bin/stockfish.exe
+!bin/stockfish.exe
 
 # Tkinter window config
 *.tcl
