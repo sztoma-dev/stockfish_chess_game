@@ -15,9 +15,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Stockfish binary
-!bin/stockfish.exe
-
 # Tkinter window config
 *.tcl
 
