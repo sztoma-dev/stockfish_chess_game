@@ -46,3 +46,6 @@ dist/
 *.exe
 *.zip
 *.tar.gz
+
+# escape any special file to ignore
+!bin/*.exe
